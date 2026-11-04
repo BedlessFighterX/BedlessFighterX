@@ -1,17 +1,14 @@
-# Hi, I'm Iliya
+# Iliya Alizadeh Moghadam
 
-I'm a developer interested in Java and Minecraft server development. Most of my projects are plugins and tools for Minecraft servers, mainly using Paper and Spigot.
+I'm a developer interested in Java and Minecraft server development. Most of my projects are plugins and tools for Minecraft servers, usually built around Paper or Spigot.
 
-### What I work with
+## Projects
 
-- Java
-- Paper and Spigot APIs
-- Gradle
-- Git and GitHub Actions
+- [Staffs-CMDLogger-Integration](https://github.com/BedlessFighterX/Staffs-CMDLogger-Integration) — A plugin that sends selected staff command events to Discord, with command filters and argument redaction.
+- [NecroManager](https://github.com/BedlessFighterX/NecroManager) — A Paper plugin for spawn management, join and quit messages, and basic lobby behavior.
 
-### Projects
+## Tools
 
-- [Staffs-CMDLogger-Integration](https://github.com/BedlessFighterX/Staffs-CMDLogger-Integration) — A plugin that sends selected staff command logs to Discord, with command filters and argument redaction.
-- [NecroManager](https://github.com/BedlessFighterX/NecroManager) — A small Paper plugin for spawn management, join and quit messages, and lobby behavior.
+Java · Paper / Spigot · Gradle · Git · GitHub Actions
 
-I'm usually working on server-side features, improving existing plugins, or making development and release tasks easier.
+I usually work on server-side features, improving existing plugins, and making build and release tasks easier to manage.
