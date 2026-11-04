@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-labelledby="title desc">
+  <title id="title">Iliya Alizadeh Moghadam</title>
+  <desc id="desc">A simple dark gray developer profile banner.</desc>
+  <rect width="1200" height="270" rx="14" fill="#171b22"/>
+  <rect x="0" y="0" width="7" height="270" rx="3" fill="#539bf5"/>
+  <path d="M60 48H1140" stroke="#30363d" stroke-width="1"/>
+  <text x="60" y="113" fill="#f0f3f6" font-family="Segoe UI, Arial, sans-serif" font-size="36" font-weight="600">Iliya Alizadeh Moghadam</text>
+  <text x="62" y="154" fill="#9da7b3" font-family="Segoe UI, Arial, sans-serif" font-size="18">Java development · Minecraft server plugins</text>
+  <text x="62" y="220" fill="#7d8590" font-family="Consolas, Menlo, monospace" font-size="14">java   /   paper   /   gradle</text>
+  <text x="1140" y="220" text-anchor="end" fill="#7d8590" font-family="Consolas, Menlo, monospace" font-size="14">BedlessFighterX</text>
+</svg>
