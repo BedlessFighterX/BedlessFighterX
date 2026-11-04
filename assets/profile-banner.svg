@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Iliya Alizadeh Moghadam — Developer</title>
+  <desc id="desc">A dark navy developer banner with cyan and blue accents, a terminal panel, and a Java and Minecraft server development tagline.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#081426"/>
+      <stop offset="0.55" stop-color="#102846"/>
+      <stop offset="1" stop-color="#071725"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#3B82F6"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#0EA5E9" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#0EA5E9" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#93C5FD" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#background)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#grid)"/>
+  <circle cx="1040" cy="120" r="270" fill="url(#glow)"/>
+  <path d="M0 275 C230 225 355 345 610 270 S980 210 1200 255" fill="none" stroke="url(#accent)" stroke-opacity="0.25" stroke-width="2"/>
+  <rect x="70" y="69" width="5" height="162" rx="2.5" fill="url(#accent)"/>
+  <text x="104" y="116" fill="#A5F3FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="4">DEVELOPER PROFILE</text>
+  <text x="101" y="166" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="35" font-weight="750" letter-spacing="0.5">ILIYA ALIZADEH MOGHADAM</text>
+  <text x="104" y="205" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="500" letter-spacing="1.1">JAVA  •  MINECRAFT SERVER DEVELOPMENT  •  AUTOMATION</text>
+  <rect x="103" y="229" width="228" height="31" rx="15.5" fill="#0B2238" stroke="#22D3EE" stroke-opacity="0.45"/>
+  <text x="217" y="249" text-anchor="middle" fill="#67E8F9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.4">BUILD  /  INTEGRATE  /  IMPROVE</text>
+  <g transform="translate(770 62)">
+    <rect width="355" height="194" rx="17" fill="#07111F" fill-opacity="0.84" stroke="#60A5FA" stroke-opacity="0.36"/>
+    <path d="M0 43H355" stroke="#60A5FA" stroke-opacity="0.22"/>
+    <circle cx="23" cy="22" r="5" fill="#F87171"/>
+    <circle cx="42" cy="22" r="5" fill="#FBBF24"/>
+    <circle cx="61" cy="22" r="5" fill="#34D399"/>
+    <text x="22" y="73" fill="#67E8F9" font-family="Consolas, Menlo, monospace" font-size="13">$ git status --short</text>
+    <text x="22" y="102" fill="#94A3B8" font-family="Consolas, Menlo, monospace" font-size="13">focus:</text>
+    <text x="87" y="102" fill="#E2E8F0" font-family="Consolas, Menlo, monospace" font-size="13">Java · Paper API</text>
+    <text x="22" y="131" fill="#94A3B8" font-family="Consolas, Menlo, monospace" font-size="13">tooling:</text>
+    <text x="94" y="131" fill="#E2E8F0" font-family="Consolas, Menlo, monospace" font-size="13">Gradle · Actions</text>
+    <text x="22" y="160" fill="#94A3B8" font-family="Consolas, Menlo, monospace" font-size="13">mission:</text>
+    <text x="101" y="160" fill="#A5F3FC" font-family="Consolas, Menlo, monospace" font-size="13">ship useful tools_</text>
+  </g>
+  <rect x="0" y="0" width="1200" height="4" rx="2" fill="url(#accent)" opacity="0.9"/>
+</svg>
